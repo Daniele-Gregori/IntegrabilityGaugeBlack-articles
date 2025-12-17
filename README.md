@@ -18,9 +18,9 @@ Currently hosted codes and their features:
     * numeric but **exact** (non-perturbative);
     * through the **thermodynamic Bethe ansatz** (TBA), with the [Wolfram resource function](https://resources.wolframcloud.com/FunctionRepository/resources/ThermodynamicBetheAnsatzSolve/) on [this repository](https://github.com/Daniele-Gregori/ThermodynamicBetheAnsatz).
 
-    
+
 ...
     
 
-**The rest of the codes will be progressively polished and uploaded!**
+*The rest of the codes will be progressively polished and uploaded*
 
